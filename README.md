@@ -29,6 +29,12 @@ Caso de implementación de presencia digital para una empresa industrial: sitio 
 
 ## Verificación QA manual
 
+### Matriz de pruebas QA
+
+[Descargar matriz QA del portafolio](Matriz_QA_Portafolio_Maira_Duque.xlsx)
+
+La ronda de verificación manual cerró el 6 de octubre de 2026 con 15 verificaciones aprobadas y ninguna pendiente dentro del alcance documentado. La matriz incluye pasos, resultados y referencias a evidencias.
+
 Durante la construcción y publicación se revisaron:
 
 - Navegación a las secciones del portafolio.
