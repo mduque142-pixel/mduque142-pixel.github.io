@@ -27,6 +27,12 @@ Caso de implementación de presencia digital para una empresa industrial: sitio 
 
 📄 **[Consultar el caso VAROME](caso-varome.pdf)**
 
+### Documentación QA de VAROME
+
+[Consultar matriz QA de VAROME](Matriz_QA_VAROME_.xlsx)
+
+[Ver evidencias QA de VAROME](evidencias-qa/evidencias-qa-varome/)
+
 ## Verificación QA manual
 
 ### Matriz de pruebas QA
