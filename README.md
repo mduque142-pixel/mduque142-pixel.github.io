@@ -33,6 +33,8 @@ Caso de implementación de presencia digital para una empresa industrial: sitio 
 
 [Ver evidencias QA de VAROME](evidencias-qa/evidencias-qa-varome/)
 
+[Consultar informe de cierre QA de VAROME](Informe_Cierre_QA_VAROME.pdf)
+
 ## Verificación QA manual
 
 ### Matriz de pruebas QA
